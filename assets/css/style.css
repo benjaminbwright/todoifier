@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+header {
+	display: flex;
+	background-color: antiquewhite;
+	padding: 10px;
+}
+
+header h1 {
+	margin: auto;
+}
